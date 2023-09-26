@@ -4,7 +4,6 @@ import './App.css';
 function App() {
   return (
    <title>Card Example</title>
-<body>
 <div class = "wrapper">
 	<div class="card">
 		<img src="https://i5.walmartimages.com/seo/Disney-Pixar-Toy-Story-Buzz
