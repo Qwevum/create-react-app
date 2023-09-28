@@ -3,6 +3,7 @@ import './App.css';
 
 function App() {
   return (
+	  <>
    <title>Card Example</title>
 <div class = "wrapper">
 	<div class="card">
@@ -28,7 +29,7 @@ function App() {
     })
 
   </script>
-  
+	  </>
   );
 }
 
